@@ -1,0 +1,20 @@
+.lbl{
+   font-weight: bold;
+    
+}
+
+.btn{
+   
+    text-decoration-color: white;
+    border-radius: 4px;
+    background-color: #4285F4;
+  color: white;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    opacity: 0.9;
+}
+.center{
+    text-align: center;
+}
